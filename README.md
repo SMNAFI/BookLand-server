@@ -1,8 +1,16 @@
-# BookLand
+# BookLand - Backend
 
-This is a simple react e-commerce website to buy books online (demo).\
-User can log in using google sign in method. User can place order and also see order history. For database, mongodb is used. There is also an admin section for managing products. [Client-side code](https://github.com/Porgramming-Hero-web-course/full-stack-client-SMNAFI).
+Backend server using express.js and mongoDB for creating REST API endpoints.
+> [BookLand - Frontend](https://github.com/SMNAFI/BookLand-client).
 
-## Live on Firebase
+## Features
+
+- MongoDB for CRUD operations to Database.
+- Secure endpoints for logged in users.
+- Public REST API endpoints accessible by everyone.
+
+## Deployment
+
+> Heroku
 
 You can see live site [here](https://bookshop-assignment-10.web.app/)

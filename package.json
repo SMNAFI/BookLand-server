@@ -1,7 +1,7 @@
 {
   "name": "full-stack-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple react e-commerce website to buy books online (demo).\\\r User can log in using google sign in method. User can place order and also see order history. For database, mongodb is used. There is also an admin section for managing products. [Client-side code](https://github.com/Porgramming-Hero-web-course/full-stack-client-SMNAFI).",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMNAFI/BookLand-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SMNAFI/BookLand-server/issues"
+  },
+  "homepage": "https://github.com/SMNAFI/BookLand-server#readme"
 }
